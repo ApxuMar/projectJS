@@ -34,7 +34,7 @@ if (personalMoviesDB.count <10) {
 } else if (personalMoviesDB.count >= 30) {
     console.log("откуда столько времени");
 } else {
-    console.log("error");
+    console.log("error!!!");
 };
 
 
